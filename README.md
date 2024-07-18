@@ -1,7 +1,5 @@
 #🚍 Sistema de Gestión de Tarjetas de Transporte Público (YOVOY) API
 
-![YOVOY Logo](logo.png)
-
 Este proyecto consiste en el desarrollo de una API basada en el sistema de tarjetas del transporte público de Aguascalientes, conocido como YOVOY. La API facilita el manejo de trámites, recargas y cobros relacionados con estas tarjetas.
 
 ## 🚀 Características
