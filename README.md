@@ -16,7 +16,6 @@ Este proyecto consiste en el desarrollo de una API basada en el sistema de tarje
 - **Spring Boot** - Framework para el desarrollo de aplicaciones Java.
 - **Spring Data JPA** - Acceso a datos mediante el uso de repositorios JPA.
 - **Spring Security** - Para la seguridad de la aplicación.
-- **Swagger** - Para la documentación de la API.
 
 ---
 
